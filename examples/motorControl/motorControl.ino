@@ -1,5 +1,5 @@
 /*该头文件引用由IntoRobot自动添加.*/
-#include <IntoBike_StepMotor_Control/IntoBike_StepMotor_Control.h>
+#include <IntoBike_StepMotor_Control.h>
 //motor pin definitions
 #define FR_L   D4    //Left  motor: Direction
 #define STEP_L D0    //Left  motor: PWM pulse, One pulse means one step for the Step Motor
